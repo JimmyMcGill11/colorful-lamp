@@ -89,6 +89,15 @@ select {
   }
 }
 
+@media (max-width: 767px) {
+  select.color {
+    width: 170px;
+  }
+  select.size {
+    width: 140px;
+  }
+}
+
 select:focus,
 select:focus ~ label {
   outline: none;
