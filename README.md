@@ -1,3 +1,3 @@
 # colorful-lamp
 
-This a simple practice on js WOB 
+This is a simple practice on js WOB 
